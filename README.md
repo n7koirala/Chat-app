@@ -8,5 +8,5 @@ BootStrap, jquery, socket.io
 - "main" : server.js
 - Dependencies: socket.io and express
 - Run npm install command to set up dependencies
-- Run node server to run the server
+- Run node server command to run the server
 - Open http://localhost:3000/ in your web browser to access the chat 
